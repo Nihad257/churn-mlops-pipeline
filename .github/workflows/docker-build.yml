@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/churn-mlops-pipeline:latest
+          tags:  ghcr.io/nihad257/churn-mlops-pipeline:latest
