@@ -1,5 +1,5 @@
 # Use a slim Python image (lightweight, fast on your i3)
-FROM python:3.10-slim
+FROM python:3.11-slim
 
 # Set working directory inside the container
 WORKDIR /app
