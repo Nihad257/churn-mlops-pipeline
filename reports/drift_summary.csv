@@ -1,0 +1,20 @@
+feature,drift_score,p_value,drifted
+MonthlyCharges,0.378,0.0,YES 🔴
+tenure,0.365,0.0,YES 🔴
+Contract,0.236,,YES 🔴
+StreamingMovies,0.031,,no
+gender,0.027,,no
+InternetService,0.021,,no
+OnlineBackup,0.018,,no
+MultipleLines,0.017,,no
+StreamingTV,0.015,,no
+TechSupport,0.015,,no
+OnlineSecurity,0.015,,no
+DeviceProtection,0.015,,no
+PaymentMethod,0.013,,no
+TotalCharges,0.013,0.9159,no
+PhoneService,0.007,,no
+Dependents,0.006,,no
+Partner,0.006,,no
+PaperlessBilling,0.004,,no
+SeniorCitizen,0.0,1.0,no
