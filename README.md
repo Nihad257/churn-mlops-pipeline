@@ -20,7 +20,7 @@ Dockerfile               ← Container definition
 
 | Area | Tools |
 |------|------|
-| Languages | Python, SQL |
+| Languages | Python|
 | Classical ML | XGBoost, LightGBM, Scikit-learn |
 | Experiment Tracking | MLflow (tracking + model registry) |
 | Serving | FastAPI, Uvicorn |
@@ -28,7 +28,7 @@ Dockerfile               ← Container definition
 | Containerization | Docker |
 | CI/CD | GitHub Actions |
 | Drift Monitoring | Custom KS-test + TV distance |
-| Visualization | Matplotlib, Plotly |
+| Visualization | Matplotlib, Seaborn |
 
 ## Key Results
 
